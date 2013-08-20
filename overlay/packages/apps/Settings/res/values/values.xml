@@ -19,21 +19,4 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string-array name="notification_pulse_length_values" translatable="false">
-        <item>1</item>
-        <item>250</item>
-        <item>500</item>
-        <item>1000</item>
-        <item>2000</item>
-        <item>4000</item>
-    </string-array>
-
-    <string-array name="notification_pulse_speed_values" translatable="false">
-        <item>500</item>
-        <item>1000</item>
-        <item>2000</item>
-        <item>4000</item>
-        <item>8000</item>
-    </string-array>
-
 </resources>
